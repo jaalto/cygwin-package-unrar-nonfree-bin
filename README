@@ -2,7 +2,7 @@ Cygwin unrar-nonfree (binary package)
 -------------------------------------
 
 This is Cygwin binary package for extracting *.rar files (format 3.x+
-support). Due to non-free license, this program cannot be distribued
+support). Due to non-free license, this program cannot be distributed
 with the official <http://cygwin.com> distribution[1].
 
 The license allows personal use. Download the *.tar.gz and install it
